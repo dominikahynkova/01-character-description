@@ -6,4 +6,4 @@
 
 - - -
 
-**Alt text:** A large black sans serif G. The letter is condensed and bold. I tis handwritten but looks sharp.
+**Alt text:** A large black sans serif G. The letter is condensed and bold. It is handwritten but looks sharp.
