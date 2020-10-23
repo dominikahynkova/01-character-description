@@ -7,3 +7,7 @@
 - - -
 
 **Alt text:** A large black sans serif G. The letter is condensed and bold. It is handwritten but looks sharp.
+
+### Draft Alt Text
+
+A large black sans serif G. The letter is condensed and bold. It is handwritten but looks sharp.
