@@ -13,7 +13,7 @@ Then we started by collecting data. 
 Everyone measured the time spent waiting during our daily activities. For example, heating water, making coffee, waiting in traffic jams etc. 
 We also tried to estimate how much time we spend waiting during occasional activities, such as waiting at airports, at the doctor, at cultural events entrances…
 
-Visual part
+## Visual part
 
 The shape of our graph represents an analogue clock. Clock face as a symbol of time. 
 We put all our periods into this shape. The same activities occur for each period.
