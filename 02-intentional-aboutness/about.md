@@ -1,5 +1,5 @@
 # Dominika Hynková
-Graphic designer, minimalist, lover of analogue photography, daydreamer and master in overthinking.
+Graphic designer, minimalist, lover of analogue photography, daydreamer, and master in overthinking.
 
 - - -
 
