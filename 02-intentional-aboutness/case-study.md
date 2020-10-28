@@ -22,14 +22,16 @@ We also tried to estimate how much time we spend waiting during occasional activ
 
 ## Visual part
 
-The shape of our graph represents an analogue clock. Clock face as a symbol of time. 
-We put all our periods into this shape. The same activities occur for each period.
-
-![activities - day](./img/cinnosti-cekani.png)
-`Activities.`
+The shape of our graph represents an analogue clock. Clock face as a symbol of time. We put all our periods into this shape. The same activities occur for each period.
 
 A dot is a unit of measurement. For a day and a week, one dot represents a minute. For a month it’s three minutes and for a year it pictures fifteen minutes.
 
+![activities - day](./img/tecky-cekani.png)
+`Where we wait.`
+
 We decided to calculate how much time each of us spends waiting in a lifetime. (Of course if we would live the same way as now.) 
+
+
+
 
 We have suggested how our graphs can be presented in real space. We decided to project the data using a projector in a narrow space. So that time surrounds the viewer.
