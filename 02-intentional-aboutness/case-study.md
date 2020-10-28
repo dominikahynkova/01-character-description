@@ -4,7 +4,7 @@ I created this project with my classmates as a part of a semester work at the en
 
 We were supposed to work in small groups of 4. At first, we chose the topic of our graph - Waiting. 
 
-The graph shows the time we spend waiting in our daily lives. In a day, a week, a month and a year. We wanted to show differences in waiting between each of our lives, so we made graphs for everyone of us and then one together, which shows the divergence between us. 
+The graph shows the time we spend waiting in our daily lives. In a day, a week, a month and a year. We wanted to show differences in waiting between each of our lives.
  
 After a long discussion, we agreed on all the items we were going to measure. What counts as waiting is quite a philosophical question, so it wasn’t easy.
 
@@ -31,7 +31,16 @@ A dot is a unit of measurement. For a day and a week, one dot represents a minut
 
 We decided to calculate how much time each of us spends waiting in a lifetime. (Of course if we would live the same way as now.) 
 
+![activities - day](./img/total-life-score.png)
+`Total life score of waiting.`
 
+We made graphs for everyone of us and then one together, which shows the divergence between us. 
 
+![posters of everyone](./img/all-posters.png)
+`Posters of every of us.`
+
+![common graph](./img/tspolecny-plakat.png)
+`Common graph.`
 
 We have suggested how our graphs can be presented in real space. We decided to project the data using a projector in a narrow space. So that time surrounds the viewer.
+
