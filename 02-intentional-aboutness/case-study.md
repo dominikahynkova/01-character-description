@@ -19,6 +19,7 @@ We also tried to estimate how much time we spend waiting during occasional activ
 ![our data](./img/tabulka-graf-cekani.png)
 `All our data.`
 
+---
 
 ## Visual part
 
@@ -39,7 +40,7 @@ We made graphs for everyone of us and then one together, which shows the diverge
 ![posters of everyone](./img/all-posters.png)
 `Posters of every of us.`
 
-![common graph](./img/tspolecny-plakat.png)
+![common graph](./img/spolecny-plakat.png)
 `Common graph.`
 
 We have suggested how our graphs can be presented in real space. We decided to project the data using a projector in a narrow space. So that time surrounds the viewer.
