@@ -10,6 +10,11 @@ After a long discussion, we agreed on all the items we were going to measure. Wh
 
 Then we started by collecting data. 
 
+![mereni cekani](./img/mereni-fotky.png)
+
+`Pictures of how we measure individual activities.`
+
+
 Everyone measured the time spent waiting during our daily activities. For example, heating water, making coffee, waiting in traffic jams etc. 
 We also tried to estimate how much time we spend waiting during occasional activities, such as waiting at airports, at the doctor, at cultural events entrances…
 
