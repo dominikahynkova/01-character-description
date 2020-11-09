@@ -1,11 +1,11 @@
 # Dominika Hynková
 
-- [About](02-intentional-aboutness/about)
+- [About](02-intentional-aboutness/about.md)
 
 ## Work
 
-- [Case Study](02-intentional-aboutness/case-study)
-- [Character & Description](01-character-description/character-description)
+- [Case Study](02-intentional-aboutness/case-study.md)
+- [Character & Description](01-character-description/character-description.md)
 
 - - -
 
