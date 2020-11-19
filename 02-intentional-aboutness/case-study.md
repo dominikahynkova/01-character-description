@@ -1,8 +1,9 @@
-# Case study- Infographic
+# Waiting Infographic 
+## Case study
 
 I created this project with my classmates as a part of a semester work at the end of the last academic year. 
 
-We were supposed to work in small groups of 4. At first, we chose the topic of our graph - Waiting. 
+We were supposed to work in small groups of four. At first, we chose the topic of our infographic - Waiting. 
 
 The graph shows the time we spend waiting in our daily lives. In a day, a week, a month and a year. We wanted to show differences in waiting between each of our lives.
  
@@ -23,7 +24,7 @@ We also tried to estimate how much time we spend waiting during occasional activ
 
 ## Visual part
 
-The shape of our graph represents an analogue clock. Clock face as a symbol of time. We put all our periods into this shape. The same activities occur for each period.
+The shape of our data visualization represents an analogue clock. Clock face as a symbol of time. We put all our periods into this shape. The same activities occur for each period.
 
 A dot is a unit of measurement. For a day and a week, one dot represents a minute. For a month it’s three minutes and for a year it pictures fifteen minutes.
 
@@ -38,10 +39,10 @@ We decided to calculate how much time each of us spends waiting in a lifetime. (
 We made graphs for everyone of us and then one together, which shows the divergence between us. 
 
 ![posters of everyone](./img/all-posters.png)
-`Posters of every of us.`
+`- Posters of each of us.`
 
 ![common graph](./img/spolecny-plakat.png)
-`Common graph.`
+`Common infographic.`
 
 We have suggested how our graphs can be presented in real space. We decided to project the data using a projector in a narrow space. So that time surrounds the viewer.
 
