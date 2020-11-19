@@ -46,3 +46,5 @@ We made graphs for everyone of us and then one together, which shows the diverge
 
 We have suggested how our graphs can be presented in real space. We decided to project the data using a projector in a narrow space. So that time surrounds the viewer.
 
+![real space](./img/klauzury-prostor.jpg)
+`Presentation in real space.`
