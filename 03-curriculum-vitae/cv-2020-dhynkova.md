@@ -28,3 +28,11 @@ I always seek to go deep and think about the project in a broader context.
 - GitHub
 - Procreate
 - Microsoft Word 
+
+## Experience
+Interships:
+
+My experience at university: 
+
+My experience in Grpahic design world: 
+
