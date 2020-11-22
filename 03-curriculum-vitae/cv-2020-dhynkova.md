@@ -17,9 +17,13 @@ I always seek to go deep and think about the project in a broader context.
 - - -
 
 ## Skils
+- Effective communication 
+- Product strategy
+- Branding
+- Packaging
 
 ## Software 
-- Adobe Suite - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD
+- Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD
 - Figma
 - GitHub
 - Procreate
