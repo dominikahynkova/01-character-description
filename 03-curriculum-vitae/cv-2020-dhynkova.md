@@ -40,7 +40,8 @@ I always seek to go deep and think about the project in a broader context.
 - Hana Fisher design & print
 
 #### Projects: 
-- Logos: 
+- Logos: The Most Famous, Famosféra, 
+- 2014-present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
 - 2019 Visual identity of company Evolution, s. r. o. 
 - 2020 Visual identity of medical startup Emmy-md, s. r. o.
 
