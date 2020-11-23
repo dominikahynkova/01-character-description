@@ -22,6 +22,8 @@ I always seek to go deep and think about the project in a broader context.
 - Branding
 - Packaging
 
+- - -
+
 ## Software 
 - Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD
 - Figma
@@ -29,10 +31,27 @@ I always seek to go deep and think about the project in a broader context.
 - Procreate
 - Microsoft Word 
 
+- - -
+
 ## Experience
-Interships:
+#### Interships:
+- Remembership_ - graphic design studio 
+- Refresh, s. r. o. - digital design studio
+- Hana Fisher design & print
 
-My experience at university: 
+#### Projects: 
+- Logos: 
+- 2019 Visual identity of company Evolution, s. r. o. 
+- 2020 Visual identity of medical startup Emmy-md, s. r. o.
 
-My experience in Grpahic design world: 
+#### Public contracts at university: 
+- 2018 Bookafe - a project for a literar cafe
+
+- 2018 Blanka Matragi - a logo for famous fashion designer Blanka Matragi
+
+- 2019 Bernard - a campain for beer company Bernard
+ 
+- 2019 Combster - a logo for mobile application
+
+- 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
 
