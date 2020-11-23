@@ -57,5 +57,7 @@ I always seek to go deep and think about the project in a broader context.
  
 - 2019 Combster - a logo for mobile application
 
+- 2019 Koli - a redesign of Koli lemonade labels
+
 - 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
 
