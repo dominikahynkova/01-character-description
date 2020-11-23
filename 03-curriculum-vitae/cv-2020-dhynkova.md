@@ -39,7 +39,6 @@ I always seek to go deep and think about the project in a broader context.
 - Hana Fisher design & print
 
 #### Projects: 
-- Logos (2015-2020): The Most Famous, Famosféra, Gut!, Go Ahead 
 - 2014-present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
 - 2017 Print materials for student musical Robinson
 - 2018 Album covers for music band Filip Zangi & Purpur
