@@ -17,7 +17,6 @@ I always seek to go deep and think about the project in a broader context.
 - - -
 
 ## Skils
-- Effective communication 
 - Product strategy
 - Branding
 - Packaging
@@ -40,9 +39,13 @@ I always seek to go deep and think about the project in a broader context.
 - Hana Fisher design & print
 
 #### Projects: 
-- Logos: The Most Famous, Famosféra, 
+- Logos (2015-2020): The Most Famous, Famosféra, Gut!, Go Ahead 
 - 2014-present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
-- 2019 Visual identity of company Evolution, s. r. o. 
+- 2017 Print materials for student musical Robinson
+- 2018 Album covers for music band Filip Zangi & Purpur
+- 2019 Print materials for student musical Petr & Lucie
+- 2019 Visual identity of company Evolution, s. r. o.
+- 2020 Print materials and logo for student film Domů
 - 2020 Visual identity of medical startup Emmy-md, s. r. o.
 
 #### Public contracts at university: 
