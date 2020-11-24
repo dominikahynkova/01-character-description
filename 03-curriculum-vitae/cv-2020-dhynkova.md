@@ -22,6 +22,7 @@ I always seek to go deep and think about the project in a broader context.
 - Product strategy
 - Branding
 - Packaging
+- Photography
 
 - - -
 
