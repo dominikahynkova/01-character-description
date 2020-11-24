@@ -30,6 +30,7 @@ I always seek to go deep and think about the project in a broader context.
 - Figma
 - GitHub
 - Procreate
+- Microsoft Word
 
 - - -
 
@@ -41,21 +42,32 @@ I always seek to go deep and think about the project in a broader context.
 
 #### Work/Projects: 
 - 2014-Present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
-- 2018 Album covers for music band Filip Zangi & Purpur
-- 2019 Print materials for student musical Petr & Lucie
-- 2019 Visual identity of company Evolution, s. r. o.
+
 - 2020 Visual identity of medical startup Emmy-md, s. r. o.
 
+- 2019 Visual identity of company Evolution, s. r. o.
+
+- 2019 Print materials for student musical Petr & Lucie
+
+- 2018 Album covers for music band Filip Zangi & Purpur
+
 #### Public contracts at university: 
-- 2018 Bookafe - a project for a literar cafe
-
-- 2018 Blanka Matragi - a logo for famous fashion designer Blanka Matragi
-
-- 2019 Bernard - a campain for beer company Bernard
- 
-- 2019 Combster - a logo for mobile application
+- 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
 
 - 2019 Koli - a redesign of Koli lemonade labels
 
-- 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
+- 2019 Combster - a logo for mobile application
+
+- 2019 Bernard - a campain for beer company Bernard
+
+- 2018 Blanka Matragi - a logo for fashion designer Blanka Matragi
+
+- 2018 Bookafe - a project for a literar cafe
+
+
+
+ 
+
+
+
 
