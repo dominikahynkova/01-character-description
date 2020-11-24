@@ -1,4 +1,6 @@
 # Dominika Hynková
+`dominika.hynkova@gmail.com`
+`+420 777 721 491`
 
 ## My profile
 
