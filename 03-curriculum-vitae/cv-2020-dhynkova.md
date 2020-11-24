@@ -40,7 +40,7 @@ I always seek to go deep and think about the project in a broader context.
 - Hana Fisher design & print
 
 #### Projects: 
-- 2014-present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
+- 2014-Present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
 - 2017 Print materials for student musical Robinson
 - 2018 Album covers for music band Filip Zangi & Purpur
 - 2019 Print materials for student musical Petr & Lucie
