@@ -25,12 +25,12 @@ I always seek to go deep and think about the project in a broader context.
 
 - - -
 
-## Software 
+## Tools
 - Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD
 - Figma
 - GitHub
 - Procreate
-- Microsoft Word
+- Microsoft Office
 
 - - -
 
