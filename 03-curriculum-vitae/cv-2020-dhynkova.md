@@ -41,11 +41,9 @@ I always seek to go deep and think about the project in a broader context.
 
 #### Projects: 
 - 2014-Present - marketing and print material for e-shops: ellabache.cz, oligodermie.cz, kozmeticky-obchod.sk
-- 2017 Print materials for student musical Robinson
 - 2018 Album covers for music band Filip Zangi & Purpur
 - 2019 Print materials for student musical Petr & Lucie
 - 2019 Visual identity of company Evolution, s. r. o.
-- 2020 Print materials and logo for student film Domů
 - 2020 Visual identity of medical startup Emmy-md, s. r. o.
 
 #### Public contracts at university: 
