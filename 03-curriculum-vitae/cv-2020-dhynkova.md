@@ -23,6 +23,7 @@ I always seek to go deep and think about the project in a broader context.
 - Branding
 - Packaging
 - Photography
+- Drawing
 
 - - -
 
