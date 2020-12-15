@@ -10,9 +10,9 @@ Last year our teacher of drawing at university gave us the task to create drawin
 In the end. When two do the same thing, it's not the same thing.
 
 
-![my picture](./img/mattise_dominika.jpg)
-`My copy of Mattisse paiting.`
-
 ![original](./img/mattise_original.jpg)
 
 `Original paiting by Mattisse.`
+
+![my picture](./img/mattise_dominika.jpg)
+`My copy of Mattisse paiting.`
