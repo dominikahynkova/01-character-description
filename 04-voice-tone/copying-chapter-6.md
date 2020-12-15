@@ -1,7 +1,7 @@
 
 # Chapter IV
 
-Copying is so important in our life. We learn by it, we become better, more experienced and grown-up. When we are small children, we copy our parents, older siblings or friends and learn from them. When we are older, we copy masters in our field or our idols. Even while using some tutorial or recipe, we basically copy what somebody has done before us. 
+Copying is so important in our life. We learn by it, we become better, more experienced and grown-up. When we are small children, we copy our parents, older siblings, or friends and learn from them. When we are older, we copy masters in our field, or our idols. Even while using some tutorial or recipe, we basically copy what somebody has done before us. 
 
 When I was around 14 years old, I desire to attend Art high school, so I signed up to a drawing atelier. From the very beginning, I learned to copy. Firstly, my teacher showed me how to perceive space. He drew some basic sketches of geometric objects, which he showed me. I tried to copy how he depicts the objects compared to the real models in front of me. After that, I studied new techniques or styles of painting by copying Old masters. From this, I learned new ways how to consider visualization options. 
 
