@@ -8,6 +8,6 @@ I would like to write about my personal opinion and experience with copying.
 3. Inspiring
 
 ## Tone
-Friendly
-Possitive
-Clear
+- Friendly
+- Possitive
+- Clear
