@@ -11,8 +11,11 @@ In the end. When two do the same thing, it's not the same thing.
 
 
 ![original](./img/mattise_original.jpg)
+
 `Original paiting by Mattisse.`
 
+---
 
 ![my picture](./img/mattise_dominika.jpg)
+
 `My copy of Mattisse paiting.`
