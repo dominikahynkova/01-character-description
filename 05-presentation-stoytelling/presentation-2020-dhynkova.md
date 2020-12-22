@@ -1,14 +1,14 @@
 # Analog photography
 
 ## What analog photography means to me
-### authenticity
+### Authenticity
 Because when you take analog photos, everything is up to you. The camera does nothing for you, unlike does the digital camera. 
 
-### experiment
+### Experiment
 Because its very sensitive and everything will affect it. Much more than in digital photography. 
 	There are also many defects on old cameras which creates beautiful effects 
 
-### moment of surprise 
+### Moment of surprise 
 You never know how your pictures will look. You don’t see your picture until you develop it. 
 
 ## Basics of analog photography
@@ -35,6 +35,9 @@ Actually it was horrible, totally broken. It was destroing the films.
 
 ## How the analog helped me get to university
 After high school I applied to Film Academy. My specialization was Director of Photography.
+
+### Film industry wasn‘t the right choise
+I didn't have the character to work in the film industry. It was very stressful.
 
 ## Most of the time I shoot my friends, family and things thats are important
 - You need to consider what you want to take a picture of.
