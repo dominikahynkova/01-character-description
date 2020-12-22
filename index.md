@@ -6,6 +6,7 @@
 
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](01-character-description/character-description.md)
+- [Curriculum Vitae](03-curriculum-vitae/cv-dominikahynkova.pdf)
 
 - - -
 
