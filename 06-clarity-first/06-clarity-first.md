@@ -8,7 +8,7 @@ In my thesis I will create a visual identity and packaging design of the company
 <details>
   <summary>Mind Map</summary>
 
-  ![Gray box placeholder image, for position only.](./img/thesis-mind-map.png)
+  ![Gray box placeholder image, for position only.](./thesis-mind-map.png)
 </details>
 
 ### Voice & Tone
