@@ -16,19 +16,21 @@ In my thesis I will create a visual identity and packaging design of the company
 
 ## Outline
 
-1. 
-2. Key point; aim for a single-sentence in 120 characters or less.
-3. Key point; aim for a single-sentence in 120 characters or less.
-4. Key point; aim for a single-sentence in 120 characters or less.
-5. Key point; aim for a single-sentence in 120 characters or less.
-6. Another key point?
-7. Too long, didn’t read?
+1. This company is a social enterprise. It employs the disabled and the long-term unemployed.
+2. Production that does not put too much strain on nature.
+3. They use only local resources. 
+4. They produce craft cider using traditional methods.
+5. The company owns firt Cider pub in Czech republic.
+6. The targed group are adults (both - men and women) mostly between 25-55 yearls old. They mostly look for alternative drinks or bars. They prefer local products and bio products.
+7. The current problems of the company are: inconsistent visual communication, unattractive labels, inconsistency in the company's philosophy and its presentation
 
 ### Notes
+- The company does not have a unified visual, it is not recognizable in the competition.
 
-- …
-- …
-- …
+New visual identity and packaging should:
+- Increasing the attractiveness of the product
+- Increasing competitiveness
+- Increased sales
 
 ## Keywords
 
