@@ -46,12 +46,12 @@ In my thesis I will create a visual identity and packaging design of the company
 ### References
 
 Czech companies
-- [Reference](https://www.pragercider.cz)
-- [Reference](http://magneticapple.cz)
-- [Reference](https://www.tatuvsad.cz)
-- [Reference](http://eshop.cidrerie.cz)
+- [Prager](https://www.pragercider.cz)
+- [Magnetic Apple](http://magneticapple.cz)
+- [Tátův sad](https://www.tatuvsad.cz)
+- [Kliment](http://eshop.cidrerie.cz)
 
 Foreign companies
-- [Reference](https://www.sandfordorchards.co.uk/product/devon-red/)
-- [Reference](https://www.kentcider.co.uk)
-- [Reference](http://brooksdrycider.com)
+- [Devon red](https://www.sandfordorchards.co.uk/product/devon-red/)
+- [Kent](https://www.kentcider.co.uk)
+- [Brooks](http://brooksdrycider.com)
