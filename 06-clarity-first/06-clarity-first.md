@@ -33,16 +33,25 @@ In my thesis I will create a visual identity and packaging design of the company
 ## Keywords
 
 - **Corporate identity**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+  - A summary of how the company presents itself.
 - **Visual identity**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+  - A specific combination of all visual elements, such as logo, color, typography and graphic elements. Based on a predetermined system.
 - **Sustainable Packaging**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+  - Packaging that does not unnecessarily burden nature.
 - **Social networks**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+  - Online platforms for communication and data sharing.
 - **Cider**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+  - Alcoholic drink made from apples.
 
 ### References
-- [Reference](http://)
-- [Reference](http://)
+
+Czech companies
+- [Reference](https://www.pragercider.cz)
+- [Reference](http://magneticapple.cz)
+- [Reference](https://www.tatuvsad.cz)
+- [Reference](http://eshop.cidrerie.cz)
+
+Foreign companies
+- [Reference](https://www.sandfordorchards.co.uk/product/devon-red/)
+- [Reference](https://www.kentcider.co.uk)
+- [Reference](http://brooksdrycider.com)
