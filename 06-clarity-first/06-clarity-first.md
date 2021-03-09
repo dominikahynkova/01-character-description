@@ -22,7 +22,7 @@ In my thesis I will create a visual identity and packaging design of the company
 4. They produce craft cider using traditional methods.
 5. The company owns firt Cider pub in Czech republic.
 6. The targed group are adults (both - men and women) mostly between 25-55 yearls old. They mostly look for alternative drinks or bars. They prefer local products and bio products.
-7. The current problems of the company are: inconsistent visual communication, unattractive labels, inconsistency in the company's philosophy and its presentation
+7. The current problems of the company are: inconsistent visual communication, unattractive labels, inconsistency in the company's philosophy and its presentation.
 
 ### Notes
 - The company does not have a unified visual, it is not recognizable in the competition.
