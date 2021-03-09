@@ -11,7 +11,7 @@ In my thesis I will create a visual identity and packaging design of the company
 
 ### Voice & Tone
 
-- **Voice:** confident, educated, and inspirational
+- **Voice:** confident, educated and inspirational
 - **Tone:** Formal, clear but also friendly and posstitive 
 
 ## Outline
