@@ -16,7 +16,7 @@ In my thesis I will create a visual identity and packaging design of the company
 
 ## Outline
 
-1. Key point; aim for a single-sentence in 120 characters or less.
+1. 
 2. Key point; aim for a single-sentence in 120 characters or less.
 3. Key point; aim for a single-sentence in 120 characters or less.
 4. Key point; aim for a single-sentence in 120 characters or less.
@@ -32,21 +32,17 @@ In my thesis I will create a visual identity and packaging design of the company
 
 ## Keywords
 
-- **Keyword**
+- **Corporate identity**
   - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
+- **Visual identity**
   - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
+- **Sustainable Packaging**
   - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
+- **Social networks**
   - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
+- **Cider**
   - Definition/description; aim for a single-sentence in 120 characters or less.
 
 ### References
-
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
-
-- [APA Style Reference Examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
 - [Reference](http://)
 - [Reference](http://)
