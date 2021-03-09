@@ -3,8 +3,6 @@
 
 In my thesis I will create a visual identity and packaging design of the company Cider Bohemia. It is a Czech company producing products from apples - ciders, musts and apple vinegar.
 
-<!-- Note the inclusion of an empty line break after the summary element for formatting. -->
-
 <details>
   <summary>Mind Map</summary>
 
@@ -13,10 +11,8 @@ In my thesis I will create a visual identity and packaging design of the company
 
 ### Voice & Tone
 
-<!-- For example. See Recap section links for review. -->
-
-- **Voice:** Human, confident, educated, and inspirational.
-- **Tone:** Formal, academic, but friendly, enthusiastic, and conversational.
+- **Voice:** confident, educated, and inspirational
+- **Tone:** Formal, clear but also friendly and posstitive 
 
 ## Outline
 
