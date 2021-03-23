@@ -8,5 +8,4 @@ The theoretical part is devoted to research in the field of creating a new corpo
 The result of my work is the creation of a recognizable original visual style containing a new logo, illustration, online promotional materials, labels and packaging.
 
 
-### Keyword List
-corporate identity, visual identity, packaging design, sustainability
+Keyword List: corporate identity, visual identity, packaging design, sustainability
