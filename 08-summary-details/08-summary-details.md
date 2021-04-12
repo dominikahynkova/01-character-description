@@ -1,5 +1,5 @@
 # Packaging design and visual identity of brand Cider Bohemia
-![new labels for Cider Bohemia.](./img/thesis-abstract-hero.png)
+![new labels for Cider Bohemia.](img/thesis-abstract-hero.png)
 `Design of new labels for Cider Bohemia.`
 
 ## Abstract
