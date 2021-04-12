@@ -11,12 +11,14 @@ Keywords: corporate identity, visual identity, packaging design, sustainability
 
 ## Cider Bohemia
 ### About company 
+Cider Bohemia is a social enterprise. The company mainly employs people with disabilities, people at risk of social exclusion and the long-term unemployable.
+The company's philosophy is to live with respect for other people and nature. They use a method of production that not unnecessarily burden the environment. The company use only local resources. 
 
-<!-- Expanded article based on outline. -->
+Company mostly produce craft cider using traditional methods and owns firt Cider pub in Czech republic.
 
 ### Current visual style
 
-## Concept - Bohemian 
+## New visual style - Concept
 
 ### Inspiration 
 
