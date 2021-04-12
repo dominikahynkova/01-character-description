@@ -9,6 +9,26 @@ The theoretical part examines the research in the field of developing a new corp
 
 Keywords: corporate identity, visual identity, packaging design, sustainability
 
-## Article
+## Cider Bohemia - about company 
 
 <!-- Expanded article based on outline. -->
+
+### Current visual style
+
+## Concept - Bohemian 
+
+### Inspiration 
+
+### Moodboard
+
+### Logotype
+
+### Illustrations
+
+### Labels
+
+### Instagram
+
+### Other materials
+
+
