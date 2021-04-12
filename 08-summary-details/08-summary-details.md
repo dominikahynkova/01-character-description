@@ -9,7 +9,8 @@ The theoretical part examines the research in the field of developing a new corp
 
 Keywords: corporate identity, visual identity, packaging design, sustainability
 
-## Cider Bohemia - about company 
+## Cider Bohemia
+### About company 
 
 <!-- Expanded article based on outline. -->
 
@@ -31,4 +32,15 @@ Keywords: corporate identity, visual identity, packaging design, sustainability
 
 ### Other materials
 
+
+## References
+Books
+1.	VYSEKALOVÁ, Jitka a Jiří MIKEŠ. Image a firemní identita
+2.	KAFKA, Ondřej a Michal KOTYZA. Logo & corporate identity
+3.	HEALEY, Matthew. Co je branding?
+4.	DUPUIS, Steven a John SILVA. Package design workbook: the art and science of successful packaging
+5.	HELLER, Jan. 1000 Obalový design. Nejlepší nápady pro kartony, krabice, tašky a láhve
+6.	CALVER, Giles. What is packaging design?. Mies, Švýcarsko: RotoVision
+7.	AIREY David. Logo, nápad, návrh, realizace
+8.	UHROVÁ, Helena. Jak se dělá cidre, calvados, pommeau
 
