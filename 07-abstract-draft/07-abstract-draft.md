@@ -1,5 +1,5 @@
 # Packaging design and visual identity of brand Cider Bohemia
-![labels for Cider Bohemia.](./thesis-abstract-hero.png)
+![new labels for Cider Bohemia.](./thesis-abstract-hero.png)
 
 ### Draft
 The bachelor thesis deals creation the visual identity and packaging design of existing brand.  A new visual style for the company Cider Bohemia, which produces apple products - especially ciders.
