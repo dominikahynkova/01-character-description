@@ -56,6 +56,19 @@ On social networks I wanted to present ciders on pictures in nature, not in the 
 `Instagram of Cider Bohemia`
 
 ### Other materials
+The company has a truck/van which they use as a bar for events. I applied a new design to it. As well as on the boxes in which they send ciders from the e-shop and other materials. 
+
+![Bar truck.](img/cider_bohemia_car.jpg)
+`Cider bohemia bar truck`
+
+![Box for ehop.](img/cider_box.png)
+`Box for sending ciders from e-shop`
+
+![Tote bag.](img/bag_bohemia.jpg)
+`Tote bag`
+
+![Bussines cards.](img/bussines_cards.png)
+`Bussines cards`
 
 
 ## References
