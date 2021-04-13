@@ -1,6 +1,6 @@
 # Packaging design and visual identity of brand Cider Bohemia
 ![new labels for Cider Bohemia.](img/thesis-abstract-hero.png)
-`Design of new labels for Cider Bohemia.`
+`Design of new labels for Cider Bohemia`
 
 ## Abstract
 This bachelor thesis explores the visual identity and product packaging redesign of the brand Cider Bohemia, producer of apple products, mainly ciders. The work aims to create a design that will be attractive to customers and at the same time based on the company's philosophy and does not unnecessarily burden the environment. The redesign process focuses on strengthening brand identity through a more consistent visual design language, visible in product packaging to marketing materials. The redesign intends to demonstrate that good design is good business, leading to good brand awareness and experience.
@@ -14,9 +14,13 @@ Keywords: corporate identity, visual identity, packaging design, sustainability
 Cider Bohemia is a social enterprise. The company mainly employs people with disabilities, people at risk of social exclusion and the long-term unemployable.
 The company's philosophy is to live with respect for other people and nature. They use a method of production that not unnecessarily burden the environment. The company use only local resources. 
 
-Company mostly produce craft cider using traditional methods and owns firt Cider pub in Czech republic.
+Company mostly produce craft cider using traditional methods. It owns firt Cider pub in Czech republic.
 
 ### Current visual style
+The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavor. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember. Personally, I don't consider current labels to be aesthetic.
+
+![current labels of Cider Bohemia.](img/current_labels.png)
+`Current labels of Cider Bohemia`
 
 ## New visual style - Concept
 
