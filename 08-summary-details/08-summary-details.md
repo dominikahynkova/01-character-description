@@ -9,36 +9,40 @@ The theoretical part examines the research in the field of developing a new corp
 
 Keywords: corporate identity, visual identity, packaging design, sustainability
 
+## Choosing a topic for my bachelor thesis
+Packaging design is a very interesting topic for me. The designer must solve the complexity of the whole design. Both in terms of design and technology. 
+I wanted to create packaging for a Czech company. I found the company Cider Bohemia, which has a beautiful philosophy and great product. But its design had many problems. That's why I agreed with them that I would do my bachelor's thesis for their company. 
+
 ## Cider Bohemia
 ### About company 
 Cider Bohemia is a social enterprise. The company mainly employs people with disabilities, people at risk of social exclusion and the long-term unemployable.
 The company's philosophy is to live with respect for other people and nature. They use a method of production that not unnecessarily burden the environment. The company use only local resources. 
 
-Company mostly produce craft cider using traditional methods. It owns firt Cider pub in Czech republic.
+The company mostly produce craft cider using traditional methods. It owns the first Cider pub in the Czech republic.
 
 ### Current visual style
-The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavor. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember. Personally, I don't think current labels are very attractive.
+The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavour. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember. Personally, I don't think current labels are very attractive.
 
 ![current labels of Cider Bohemia.](img/current_labels.png)
 `Current labels of Cider Bohemia`
 
 ## New visual style - Concept
-I decided to work with the word Bohemia, not only as the name of the Czech land, but also with the theme of bohemianism, as a lifestyle. I try to evoke the atmosphere of Czech romantic bohemianism. It's based on inspiration in Czech romanticism, where Czech bohemians are a frequent subject. 
+I decided to work with the word Bohemia, not only as the name of the Czech land but also with the theme of bohemianism, as a lifestyle. I try to evoke the atmosphere of Czech romantic bohemianism. It's based on inspiration in Czech romanticism, where Czech bohemians are a frequent subject. 
 
 ### Moodboard
-The moodboard shows the atmosphere of Czech romanticism. Wildness of the Czech countryside. Aesthetics of the 19th century.
+The moodboard shows the atmosphere of Czech romanticism. The wildness of the Czech countryside. Aesthetics of the 19th century.
 
 ![Moodboard Bohemia.](img/moodboard_bohemistvi.jpg)
 `Moodboard concept Bohemia`
 
 ### Logotype
-The logotype is created from a serif font. The dot on the letter "i" is transformed into an apple. I also use the apple itself as a sign/logo in combination with letter B.
+The logotype is created from a serif font. The dot on the letter "i" is transformed into an apple. I also use the apple itself as a sign/logo in combination with the letter B.
 ![logo Bohemia.](img/logo-bohemia.png)
 `Logo for Cider Bohemia`
 
 ### Illustrations
 The illustrations are drawn to act as line drawings. They are created on a tablet in Adobe Fresco, a tool for digital drawing. 
-The themes of the illustrations are a bit surreal. They should show bohemian free thinking and connection with nature.
+The themes of the illustrations are a bit surreal. They should show bohemian free-thinking and connection with nature.
 
 ![illustrations Bohemia.](img/illustration.png)
 `Illustrations`
@@ -50,7 +54,7 @@ Labels are vertical, respecting the shape of the bottle. They will be printed on
 `Design of new labels for Cider Bohemia`
 
 ### Instagram
-On social networks I wanted to present ciders on pictures in nature, not in the atelier or something like that. I want cider to be shown in real enviroment. I am also going to take atmospheric photographs of nature, apples, etc., which would express the atmosphere of the Czech countryside. I am also going to use texts on social networks that are inspired by Czech romanticism literature.
+On social networks I wanted to present ciders on pictures in nature. I want cider to be shown in real enviroment. I am also going to take atmospheric photographs of nature, apples, etc., which would express the atmosphere of the Czech countryside. I am also going to use texts on social networks that are inspired by Czech romanticism literature.
 
 ![Instagram Cider Bohemia.](img/bohemia_instagram.png)
 `Instagram of Cider Bohemia`
@@ -63,9 +67,6 @@ The company has a truck/van which they use as a bar for events. I applied a new 
 
 ![Box for ehop.](img/cider_box.png)
 `Box for sending ciders from e-shop`
-
-![Tote bag.](img/bag_bohemia.jpg)
-`Tote bag`
 
 ![Bussines cards.](img/bussines_cards.png)
 `Bussines cards`
