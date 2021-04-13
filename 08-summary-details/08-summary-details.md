@@ -25,9 +25,10 @@ The main problem of the current visual style is its inconsistency. The company u
 ## New visual style - Concept
 I decided to work with the word Bohemia, not only as the name of the Czech land, but also with the theme of bohemianism, as a lifestyle. I try to evoke the atmosphere of Czech romantic bohemianism. It's based on inspiration in Czech romanticism, where Czech bohemians are a frequent subject. 
 
-### Inspiration 
-
 ### Moodboard
+
+![Moodboard Bohemia.](img/moodboard_bohemistvi)
+`Moodboard concept Bohemia`
 
 ### Logotype
 
