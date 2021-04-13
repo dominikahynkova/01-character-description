@@ -37,7 +37,7 @@ The moodboard shows the atmosphere of Czech romanticism. The wildness of the Cze
 `Moodboard concept Bohemia`
 
 ### Logotype
-The logotype is created from a serif font. The dot on the letter "i" is transformed into an apple. I also use the apple itself as a sign/logo in combination with the letter B.
+The logotype is created from a serif font. The dot on the letter "i" is transformed into an apple. I also use the apple itself as a symbol in combination with the letter B.
 ![logo Bohemia.](img/logo-bohemia.png)
 `Logo for Cider Bohemia`
 
