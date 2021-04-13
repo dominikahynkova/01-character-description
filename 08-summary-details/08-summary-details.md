@@ -17,7 +17,7 @@ The company's philosophy is to live with respect for other people and nature. Th
 Company mostly produce craft cider using traditional methods. It owns firt Cider pub in Czech republic.
 
 ### Current visual style
-The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavor. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember.
+The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavor. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember. Personally, I don't think current labels are very attractive.
 
 ![current labels of Cider Bohemia.](img/current_labels.png)
 `Current labels of Cider Bohemia`
@@ -32,8 +32,15 @@ The moodboard shows the atmosphere of Czech romanticism. Wildness of the Czech c
 
 ### Logotype
 The logotype is created from a serif font. The dot on the letter "i" is transformed into an apple. I also use the apple itself as a sign/logo in combination with letter B.
+![logo Bohemia.](img/logo-bohemia.png)
+`Logo for Cider Bohemia`
 
 ### Illustrations
+The illustrations are drawn to act as line drawings. They are created on a tablet in Adobe Fresco, a tool for digital drawing. 
+The themes of the illustrations are a bit surreal. They should show bohemian free thinking and connection with nature.
+
+![illustrations Bohemia.](img/illustration.png)
+`Illustrations`
 
 ### Labels
 
