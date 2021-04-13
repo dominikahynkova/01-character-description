@@ -21,7 +21,8 @@ The company's philosophy is to live with respect for other people and nature. Th
 The company mostly produce craft cider using traditional methods. It owns the first Cider pub in the Czech republic.
 
 ### Current visual style
-The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavour. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember. Personally, I don't think current labels are very attractive.
+The main problem of the current visual style is its inconsistency. The company uses different logos and different label designs for each flavour. This raises several problems. For customers, this company is not very recognizable in the competition and is difficult to remember. Also there is inconsistency in the company's philosophy and its presentation. Production of the company does not put too much strain on nature, but they use plastic bottles and plastic labels.
+Also, I don't consider current labels are very attractive.
 
 ![current labels of Cider Bohemia.](img/current_labels.png)
 `Current labels of Cider Bohemia`
