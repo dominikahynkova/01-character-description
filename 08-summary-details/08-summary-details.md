@@ -26,11 +26,12 @@ The main problem of the current visual style is its inconsistency. The company u
 I decided to work with the word Bohemia, not only as the name of the Czech land, but also with the theme of bohemianism, as a lifestyle. I try to evoke the atmosphere of Czech romantic bohemianism. It's based on inspiration in Czech romanticism, where Czech bohemians are a frequent subject. 
 
 ### Moodboard
-
-![Moodboard Bohemia.](img/moodboard_bohemistvi)
+The moodboard shows the atmosphere of Czech romanticism. Wildness of the Czech countryside.
+![Moodboard Bohemia.](img/moodboard_bohemistvi.jpg)
 `Moodboard concept Bohemia`
 
 ### Logotype
+The logotype is created from a serif font. The dot on the letter "i" is transformed into an apple. I also use the apple itself as a sign/logo in combination with letter B.
 
 ### Illustrations
 
