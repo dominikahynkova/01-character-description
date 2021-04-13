@@ -44,8 +44,16 @@ The themes of the illustrations are a bit surreal. They should show bohemian fre
 `Illustrations`
 
 ### Labels
+Labels are vertical, respecting the shape of the bottle. They will be printed on light recycled paper.
+
+![Labels Bohemia.](img/thesis-abstract-hero.png)
+`Design of new labels for Cider Bohemia`
 
 ### Instagram
+On social networks I wanted to present ciders on pictures in nature, not in the atelier or something like that. I want cider to be shown in real enviroment. I am also going to take atmospheric photographs of nature, apples, etc., which would express the atmosphere of the Czech countryside. I am also going to use texts on social networks that are inspired by Czech romanticism literature.
+
+![Instagram Cider Bohemia.](img/bohemia_instagram.png)
+`Instagram of Cider Bohemia`
 
 ### Other materials
 
