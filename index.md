@@ -10,6 +10,9 @@
 - [Voice Tone](04-voice-tone/copying-chapter-6.md)
 - [Presentation storytelling](05-presentation-stoytelling/presentation-2020-dhynkova.md)
 - [Semester takeways](06-semester-takeaways/semester-takeways.md)
+- [Clarity first](06-clarity-first/06-clarity-first.md)
+- [Abstract draft](07-abstract-draft/07-abstract-draft.md)
+- [Summary details](08-summary-details/08-summary-details.md)
 
 - - -
 
